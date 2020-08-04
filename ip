@@ -99,6 +99,7 @@
 101.200.49.206 # CN, China
 101.200.53.232 # CN, China
 101.200.57.240 # CN, China
+101.200.62.126 # CN, China
 101.201.149.55 # CN, China
 101.204.248.138 # CN, China
 101.206.211.222 # CN, China
@@ -379,6 +380,7 @@
 103.199.119.35 # AU, Australia
 103.199.162.153 # IN, India
 103.199.98.220 # IN, India
+103.20.188.18 # ID, Indonesia
 103.200.22.126 # VN, Vietnam
 103.200.23.194 # VN, Vietnam
 103.200.23.81 # VN, Vietnam
@@ -1254,11 +1256,13 @@
 106.12.3.28 # CN, China
 106.12.30.133 # CN, China
 106.12.30.229 # CN, China
+106.12.30.87 # CN, China
 106.12.31.186 # CN, China
 106.12.33.163 # CN, China
 106.12.33.174 # CN, China
 106.12.33.181 # CN, China
 106.12.33.226 # CN, China
+106.12.33.78 # CN, China
 106.12.34.32 # CN, China
 106.12.34.97 # CN, China
 106.12.36.224 # CN, China
@@ -1367,6 +1371,7 @@
 106.12.87.149 # CN, China
 106.12.87.159 # CN, China
 106.12.87.250 # CN, China
+106.12.88.165 # CN, China
 106.12.88.246 # CN, China
 106.12.88.95 # CN, China
 106.12.89.154 # CN, China
@@ -2191,6 +2196,7 @@
 106.75.157.90 # CN, China
 106.75.16.175 # CN, China
 106.75.16.62 # CN, China
+106.75.165.187 # CN, China
 106.75.166.173 # CN, China
 106.75.174.87 # CN, China
 106.75.176.179 # CN, China
@@ -2210,6 +2216,7 @@
 106.75.236.46 # CN, China
 106.75.239.3 # CN, China
 106.75.240.46 # CN, China
+106.75.241.196 # CN, China
 106.75.244.62 # CN, China
 106.75.25.114 # CN, China
 106.75.254.114 # CN, China
@@ -2446,6 +2453,8 @@
 109.95.176.32 # PL, Poland
 109.95.42.42 # UA, Ukraine
 110.12.8.10 # KR, Korea, Republic of
+110.136.194.152 # ID, Indonesia
+110.136.196.155 # ID, Indonesia
 110.139.114.173 # ID, Indonesia
 110.141.212.12 # AU, Australia
 110.144.66.156 # AU, Australia
@@ -2475,6 +2484,7 @@
 110.185.104.126 # CN, China
 110.185.104.186 # CN, China
 110.185.107.51 # CN, China
+110.185.166.137 # CN, China
 110.185.227.204 # CN, China
 110.188.20.58 # CN, China
 110.19.105.124 # CN, China
@@ -2582,6 +2592,7 @@
 111.194.50.128 # CN, China
 111.198.54.173 # CN, China
 111.198.54.177 # CN, China
+111.198.61.150 # CN, China
 111.198.88.86 # CN, China
 111.20.68.38 # CN, China
 111.200.197.82 # CN, China
@@ -2600,6 +2611,7 @@
 111.21.214.81 # CN, China
 111.21.99.227 # CN, China
 111.220.110.188 # AU, Australia
+111.221.54.108 # MY, Malaysia
 111.221.54.87 # MY, Malaysia
 111.227.197.38 # CN, China
 111.229.1.180 # CN, China
@@ -2823,6 +2835,7 @@
 111.231.119.141 # CN, China
 111.231.119.93 # CN, China
 111.231.121.62 # CN, China
+111.231.132.94 # CN, China
 111.231.133.146 # CN, China
 111.231.135.232 # CN, China
 111.231.137.158 # CN, China
@@ -3093,6 +3106,7 @@
 112.78.183.21 # ID, Indonesia
 112.78.188.194 # ID, Indonesia
 112.80.35.2 # CN, China
+112.82.188.237 # CN, China
 112.84.104.155 # CN, China
 112.86.46.166 # CN, China
 112.91.145.58 # CN, China
@@ -3163,6 +3177,7 @@
 113.161.54.30 # VN, Vietnam
 113.161.64.22 # VN, Vietnam
 113.161.66.214 # VN, Vietnam
+113.161.69.158 # VN, Vietnam
 113.161.71.139 # VN, Vietnam
 113.161.71.73 # VN, Vietnam
 113.164.234.70 # VN, Vietnam
@@ -3946,6 +3961,7 @@
 118.24.117.247 # CN, China
 118.24.12.102 # CN, China
 118.24.120.26 # CN, China
+118.24.121.240 # CN, China
 118.24.126.48 # CN, China
 118.24.129.251 # CN, China
 118.24.13.248 # CN, China
@@ -4114,6 +4130,7 @@
 118.27.1.192 # JP, Japan
 118.27.10.61 # JP, Japan
 118.27.12.150 # JP, Japan
+118.27.12.248 # JP, Japan
 118.27.14.123 # JP, Japan
 118.27.15.50 # JP, Japan
 118.27.17.61 # JP, Japan
@@ -4150,10 +4167,12 @@
 118.45.130.170 # KR, Korea, Republic of
 118.45.190.167 # KR, Korea, Republic of
 118.69.130.111 # VN, Vietnam
+118.69.161.67 # VN, Vietnam
 118.69.176.26 # VN, Vietnam
 118.69.183.237 # VN, Vietnam
 118.69.228.63 # VN, Vietnam
 118.69.55.101 # VN, Vietnam
+118.69.55.141 # VN, Vietnam
 118.69.65.4 # VN, Vietnam
 118.69.71.106 # VN, Vietnam
 118.69.71.182 # VN, Vietnam
@@ -4382,6 +4401,8 @@
 119.45.34.52 # CN, China
 119.45.36.221 # CN, China
 119.45.40.87 # CN, China
+119.45.42.173 # CN, China
+119.45.42.241 # CN, China
 119.45.5.31 # CN, China
 119.45.50.17 # CN, China
 119.47.90.197 # ID, Indonesia
@@ -4762,6 +4783,7 @@
 121.43.116.52 # CN, China
 121.46.244.194 # CN, China
 121.46.26.126 # CN, China
+121.46.26.17 # CN, China
 121.46.27.218 # CN, China
 121.46.4.143 # CN, China
 121.48.163.225 # CN, China
@@ -4957,6 +4979,7 @@
 122.51.125.104 # CN, China
 122.51.125.71 # CN, China
 122.51.127.230 # CN, China
+122.51.129.180 # CN, China
 122.51.130.21 # CN, China
 122.51.131.225 # CN, China
 122.51.134.52 # CN, China
@@ -5372,6 +5395,7 @@
 124.156.114.53 # HK, Hong Kong
 124.156.115.13 # HK, Hong Kong
 124.156.115.99 # HK, Hong Kong
+124.156.119.150 # HK, Hong Kong
 124.156.119.18 # HK, Hong Kong
 124.156.121.169 # HK, Hong Kong
 124.156.121.233 # HK, Hong Kong
@@ -6769,6 +6793,7 @@
 139.155.29.190 # CN, China
 139.155.35.47 # CN, China
 139.155.39.111 # CN, China
+139.155.39.22 # CN, China
 139.155.39.62 # CN, China
 139.155.45.130 # CN, China
 139.155.5.132 # CN, China
@@ -6796,6 +6821,7 @@
 139.155.93.180 # CN, China
 139.162.117.40 # JP, Japan
 139.162.138.108 # DE, Germany
+139.162.154.12 # DE, Germany
 139.162.163.110 # DE, Germany
 139.162.60.27 # SG, Singapore
 139.162.89.153 # JP, Japan
@@ -6824,6 +6850,7 @@
 139.186.8.212 # CN, China
 139.186.84.46 # CN, China
 139.196.253.140 # CN, China
+139.196.26.115 # CN, China
 139.196.90.214 # CN, China
 139.198.11.165 # CN, China
 139.198.121.63 # CN, China
@@ -6911,6 +6938,7 @@
 139.199.9.4 # CN, China
 139.199.98.175 # CN, China
 139.199.99.77 # CN, China
+139.213.220.70 # CN, China
 139.215.208.125 # CN, China
 139.215.217.180 # CN, China
 139.215.217.181 # CN, China
@@ -7785,6 +7813,7 @@
 149.202.162.73 # FR, France
 149.202.164.82 # FR, France
 149.202.175.255 # FR, France
+149.202.189.5 # FR, France
 149.202.206.206 # FR, France
 149.202.208.104 # FR, France
 149.202.239.79 # FR, France
@@ -8156,6 +8185,7 @@
 154.117.126.249 # NG, Nigeria
 154.117.154.86 # ZA, South Africa
 154.117.64.241 # NG, Nigeria
+154.117.99.252 # NG, Nigeria
 154.118.225.106 # TZ, Tanzania, United Republic of
 154.120.226.102 # ZW, Zimbabwe
 154.124.123.171 # SN, Senegal
@@ -8170,6 +8200,7 @@
 154.195.2.158 # US, United States
 154.202.5.147 # US, United States
 154.202.5.6 # US, United States
+154.202.60.148 # US, United States
 154.204.27.162 # HK, Hong Kong
 154.204.42.123 # HK, Hong Kong
 154.204.53.32 # HK, Hong Kong
@@ -8245,6 +8276,7 @@
 156.239.157.20 # US, United States
 156.251.174.194 # ZA, South Africa
 156.255.2.128 # HK, Hong Kong
+156.34.240.20 # CA, Canada
 156.38.174.244 # ZA, South Africa
 156.54.178.41 # IT, Italy
 156.96.105.250 # US, United States
@@ -8291,6 +8323,7 @@
 157.230.231.39 # US, United States
 157.230.235.233 # US, United States
 157.230.239.99 # US, United States
+157.230.24.24 # DE, Germany
 157.230.244.147 # SG, Singapore
 157.230.245.91 # SG, Singapore
 157.230.247.40 # SG, Singapore
@@ -8425,6 +8458,7 @@
 159.122.4.147 # US, United States
 159.138.201.61 # SG, Singapore
 159.180.226.112 # FR, France
+159.180.227.2 # FR, France
 159.192.143.249 # TH, Thailand
 159.192.8.35 # TH, Thailand
 159.192.98.3 # TH, Thailand
@@ -8779,6 +8813,7 @@
 162.243.99.164 # US, United States
 162.244.77.140 # US, United States
 162.246.22.211 # US, United States
+162.248.164.104 # CA, Canada
 162.248.164.112 # CA, Canada
 162.248.164.69 # CA, Canada
 162.248.201.211 # US, United States
@@ -9252,6 +9287,7 @@
 167.99.198.221 # GB, United Kingdom
 167.99.202.143 # GB, United Kingdom
 167.99.224.160 # US, United States
+167.99.224.27 # US, United States
 167.99.231.70 # US, United States
 167.99.234.170 # US, United States
 167.99.252.15 # DE, Germany
@@ -9339,6 +9375,7 @@
 168.90.89.35 # BR, Brazil
 169.1.24.105 # ZA, South Africa
 169.1.34.235 # ZA, South Africa
+169.159.130.225 # ZA, South Africa
 169.237.39.167 # US, United States
 169.239.39.15 # EG, Egypt
 169.255.148.18 # GA, Gabon
@@ -9471,6 +9508,7 @@
 172.93.121.70 # US, United States
 172.96.16.86 # US, United States
 172.96.192.108 # US, United States
+172.96.194.241 # US, United States
 172.96.214.25 # US, United States
 172.96.218.135 # US, United States
 172.96.219.239 # US, United States
@@ -9525,6 +9563,7 @@
 174.105.201.174 # US, United States
 174.110.88.87 # US, United States
 174.135.156.170 # US, United States
+174.137.58.11 # US, United States
 174.137.62.193 # US, United States
 174.138.18.157 # SG, Singapore
 174.138.20.105 # SG, Singapore
@@ -9535,6 +9574,7 @@
 174.138.64.177 # US, United States
 174.140.168.115 # US, United States
 174.240.134.114 # US, United States
+174.48.97.10 # US, United States
 174.56.158.10 # US, United States
 174.60.121.175 # US, United States
 174.63.20.105 # US, United States
@@ -9567,6 +9607,7 @@
 175.143.20.223 # MY, Malaysia
 175.143.94.65 # MY, Malaysia
 175.145.18.15 # MY, Malaysia
+175.145.200.68 # MY, Malaysia
 175.145.207.141 # MY, Malaysia
 175.145.232.73 # MY, Malaysia
 175.155.13.34 # CN, China
@@ -9596,6 +9637,7 @@
 175.24.101.79 # CN, China
 175.24.102.249 # CN, China
 175.24.103.72 # CN, China
+175.24.105.133 # CN, China
 175.24.106.19 # CN, China
 175.24.106.77 # CN, China
 175.24.107.201 # CN, China
@@ -9725,6 +9767,7 @@
 176.123.6.72 # MD, Moldova, Republic of
 176.126.167.167 # KG, Kyrgyzstan
 176.126.175.31 # RO, Romania
+176.127.96.217 # CH, Switzerland
 176.128.229.173 # FR, France
 176.146.225.254 # FR, France
 176.154.207.56 # FR, France
@@ -9856,6 +9899,7 @@
 177.191.179.94 # BR, Brazil
 177.193.88.87 # BR, Brazil
 177.194.23.29 # BR, Brazil
+177.194.49.35 # BR, Brazil
 177.200.207.11 # BR, Brazil
 177.201.186.69 # BR, Brazil
 177.203.150.26 # BR, Brazil
@@ -10385,7 +10429,19 @@
 180.242.154.204 # ID, Indonesia
 180.242.213.148 # ID, Indonesia
 180.244.223.13 # ID, Indonesia
+180.248.104.60 # ID, Indonesia
+180.248.120.142 # ID, Indonesia
+180.248.120.191 # ID, Indonesia
+180.248.120.199 # ID, Indonesia
+180.248.121.107 # ID, Indonesia
+180.248.121.164 # ID, Indonesia
+180.248.121.166 # ID, Indonesia
+180.248.121.44 # ID, Indonesia
+180.248.121.9 # ID, Indonesia
 180.248.122.159 # ID, Indonesia
+180.248.122.65 # ID, Indonesia
+180.248.123.44 # ID, Indonesia
+180.248.89.116 # ID, Indonesia
 180.249.180.9 # ID, Indonesia
 180.250.108.133 # ID, Indonesia
 180.250.115.121 # ID, Indonesia
@@ -10623,6 +10679,7 @@
 181.143.186.235 # CO, Colombia
 181.143.228.170 # CO, Colombia
 181.16.54.125 # AR, Argentina
+181.164.132.26 # AR, Argentina
 181.170.139.44 # AR, Argentina
 181.171.181.50 # AR, Argentina
 181.174.160.20 # PY, Paraguay
@@ -10658,6 +10715,7 @@
 181.234.146.116 # CO, Colombia
 181.236.170.91 # CO, Colombia
 181.28.152.133 # AR, Argentina
+181.28.238.155 # AR, Argentina
 181.28.254.49 # AR, Argentina
 181.29.151.15 # AR, Argentina
 181.30.28.120 # AR, Argentina
@@ -10681,6 +10739,7 @@
 181.47.3.39 # AR, Argentina
 181.48.114.82 # CO, Colombia
 181.48.120.219 # CO, Colombia
+181.48.120.220 # CO, Colombia
 181.48.134.65 # CO, Colombia
 181.48.138.242 # CO, Colombia
 181.48.139.118 # CO, Colombia
@@ -10780,6 +10839,7 @@
 182.208.185.213 # KR, Korea, Republic of
 182.208.252.91 # KR, Korea, Republic of
 182.208.98.210 # KR, Korea, Republic of
+182.216.245.188 # KR, Korea, Republic of
 182.219.172.224 # KR, Korea, Republic of
 182.23.104.231 # ID, Indonesia
 182.23.15.2 # ID, Indonesia
@@ -10966,6 +11026,7 @@
 182.61.58.227 # CN, China
 182.61.59.163 # CN, China
 182.61.6.174 # CN, China
+182.61.6.64 # CN, China
 182.61.61.44 # CN, China
 182.61.61.86 # CN, China
 182.61.64.212 # CN, China
@@ -11241,6 +11302,7 @@
 185.181.162.69 # CH, Switzerland
 185.183.243.118 # UZ, Uzbekistan
 185.183.243.245 # UZ, Uzbekistan
+185.183.243.246 # UZ, Uzbekistan
 185.183.243.39 # UZ, Uzbekistan
 185.183.243.6 # UZ, Uzbekistan
 185.185.40.211 # NL, Netherlands
@@ -11249,6 +11311,7 @@
 185.189.14.84 # RU, Russian Federation
 185.189.14.91 # RU, Russian Federation
 185.19.1.100 # CZ, Czech Republic
+185.19.28.178 # CH, Switzerland
 185.194.49.132 # ES, Spain
 185.195.25.148 # RU, Russian Federation
 185.195.27.206 # RU, Russian Federation
@@ -11480,6 +11543,7 @@
 187.101.252.122 # BR, Brazil
 187.103.73.133 # BR, Brazil
 187.107.197.98 # BR, Brazil
+187.107.67.41 # BR, Brazil
 187.107.70.66 # BR, Brazil
 187.109.10.100 # BR, Brazil
 187.109.21.245 # BR, Brazil
@@ -11795,6 +11859,7 @@
 189.147.78.198 # MX, Mexico
 189.15.55.135 # BR, Brazil
 189.156.188.92 # MX, Mexico
+189.163.24.102 # MX, Mexico
 189.164.195.221 # MX, Mexico
 189.172.150.114 # MX, Mexico
 189.174.202.140 # MX, Mexico
@@ -11866,6 +11931,7 @@
 189.62.136.109 # BR, Brazil
 189.62.69.106 # BR, Brazil
 189.63.21.166 # BR, Brazil
+189.63.58.158 # BR, Brazil
 189.68.241.208 # BR, Brazil
 189.7.129.60 # BR, Brazil
 189.7.217.23 # BR, Brazil
@@ -11973,6 +12039,7 @@
 190.156.232.32 # CO, Colombia
 190.156.238.155 # CO, Colombia
 190.158.201.33 # CO, Colombia
+190.158.248.114 # CO, Colombia
 190.16.182.10 # AR, Argentina
 190.16.93.190 # AR, Argentina
 190.165.166.138 # CO, Colombia
@@ -12225,6 +12292,7 @@
 192.144.171.165 # CN, China
 192.144.172.50 # CN, China
 192.144.173.122 # CN, China
+192.144.175.40 # CN, China
 192.144.176.136 # CN, China
 192.144.182.47 # CN, China
 192.144.183.188 # CN, China
@@ -12423,6 +12491,7 @@
 192.35.168.198 # US, United States
 192.35.168.213 # US, United States
 192.35.168.217 # US, United States
+192.35.168.250 # US, United States
 192.35.168.43 # US, United States
 192.35.168.88 # US, United States
 192.35.169.19 # US, United States
@@ -12937,6 +13006,7 @@
 199.115.228.202 # US, United States
 199.115.229.232 # US, United States
 199.115.230.39 # US, United States
+199.126.162.81 # CA, Canada
 199.19.105.181 # US, United States
 199.19.224.78 # US, United States
 199.192.30.61 # US, United States
@@ -12973,6 +13043,7 @@
 2.3.74.213 # FR, France
 2.32.113.118 # IT, Italy
 2.32.82.50 # IT, Italy
+2.35.184.83 # IT, Italy
 2.36.136.146 # IT, Italy
 2.37.66.196 # IT, Italy
 2.38.181.39 # IT, Italy
@@ -13449,6 +13520,7 @@
 202.98.248.123 # CN, China
 203.0.107.173 # CN, China
 203.106.194.124 # MY, Malaysia
+203.106.41.10 # MY, Malaysia
 203.106.41.154 # MY, Malaysia
 203.109.5.247 # KR, Korea, Republic of
 203.110.166.51 # CN, China
@@ -13537,6 +13609,7 @@
 203.195.133.17 # CN, China
 203.195.134.205 # CN, China
 203.195.141.53 # CN, China
+203.195.144.192 # CN, China
 203.195.150.131 # CN, China
 203.195.157.137 # CN, China
 203.195.159.135 # CN, China
@@ -13797,6 +13870,7 @@
 208.88.172.135 # US, United States
 208.94.242.251 # US, United States
 209.105.243.145 # US, United States
+209.126.124.203 # US, United States
 209.141.35.62 # US, United States
 209.141.36.236 # US, United States
 209.141.41.96 # US, United States
@@ -13939,6 +14013,7 @@
 210.22.80.142 # CN, China
 210.22.94.42 # CN, China
 210.227.113.18 # JP, Japan
+210.237.133.31 # JP, Japan
 210.241.116.209 # TW, Taiwan
 210.245.110.9 # VN, Vietnam
 210.245.32.158 # VN, Vietnam
@@ -14092,6 +14167,7 @@
 212.123.95.131 # IT, Italy
 212.129.13.7 # FR, France
 212.129.139.59 # CN, China
+212.129.141.93 # CN, China
 212.129.144.231 # CN, China
 212.129.147.181 # CN, China
 212.129.149.80 # CN, China
@@ -14192,6 +14268,7 @@
 212.64.72.2 # CN, China
 212.64.78.151 # CN, China
 212.64.8.10 # CN, China
+212.64.80.169 # CN, China
 212.64.81.216 # CN, China
 212.64.88.97 # CN, China
 212.64.93.103 # CN, China
@@ -14203,6 +14280,7 @@
 212.73.136.72 # BG, Bulgaria
 212.81.180.201 # ES, Spain
 212.83.131.135 # FR, France
+212.83.152.177 # FR, France
 212.83.154.20 # FR, France
 212.83.169.2 # FR, France
 212.83.183.57 # FR, France
@@ -14385,6 +14463,7 @@
 217.182.157.124 # NL, Netherlands
 217.182.169.183 # FR, France
 217.182.170.54 # FR, France
+217.182.193.13 # FR, France
 217.182.196.178 # DE, Germany
 217.182.204.34 # FR, France
 217.182.205.27 # FR, France
@@ -14510,6 +14589,7 @@
 218.255.86.106 # HK, Hong Kong
 218.26.171.7 # CN, China
 218.26.35.9 # CN, China
+218.26.36.12 # CN, China
 218.28.108.237 # CN, China
 218.28.21.236 # CN, China
 218.28.238.162 # CN, China
@@ -14620,7 +14700,9 @@
 218.94.136.90 # CN, China
 218.94.143.226 # CN, China
 218.94.23.132 # CN, China
+218.94.54.84 # CN, China
 218.94.57.147 # CN, China
+218.94.57.157 # CN, China
 218.94.91.226 # CN, China
 218.95.175.166 # CN, China
 218.95.182.149 # CN, China
@@ -14999,6 +15081,8 @@
 223.197.125.10 # HK, Hong Kong
 223.197.151.55 # HK, Hong Kong
 223.197.175.91 # HK, Hong Kong
+223.197.188.206 # HK, Hong Kong
+223.218.15.29 # JP, Japan
 223.220.251.232 # CN, China
 223.223.188.208 # CN, China
 223.223.190.130 # CN, China
@@ -15140,6 +15224,7 @@
 24.146.248.180 # US, United States
 24.16.139.106 # US, United States
 24.166.189.235 # US, United States
+24.172.172.2 # US, United States
 24.185.47.170 # US, United States
 24.2.205.235 # US, United States
 24.20.244.45 # US, United States
@@ -15169,6 +15254,7 @@
 27.104.135.156 # SG, Singapore
 27.111.42.70 # ID, Indonesia
 27.111.83.239 # HK, Hong Kong
+27.113.49.20 # KR, Korea, Republic of
 27.115.111.58 # CN, China
 27.115.15.8 # CN, China
 27.115.21.30 # CN, China
@@ -15687,6 +15773,7 @@
 35.241.122.141 # AS, American Samoa
 35.241.123.113 # AS, American Samoa
 35.241.123.237 # AS, American Samoa
+35.241.152.211 # AS, American Samoa
 35.241.72.105 # AS, American Samoa
 35.241.72.130 # AS, American Samoa
 35.241.72.43 # AS, American Samoa
@@ -15832,19 +15919,26 @@
 36.71.232.177 # ID, Indonesia
 36.72.21.121 # ID, Indonesia
 36.72.32.224 # ID, Indonesia
+36.74.247.49 # ID, Indonesia
 36.74.75.31 # ID, Indonesia
 36.75.227.99 # ID, Indonesia
 36.75.228.225 # ID, Indonesia
+36.75.39.219 # ID, Indonesia
+36.75.46.149 # ID, Indonesia
+36.75.46.6 # ID, Indonesia
 36.76.247.94 # ID, Indonesia
 36.80.48.9 # ID, Indonesia
 36.81.203.211 # ID, Indonesia
 36.82.106.238 # ID, Indonesia
+36.82.192.19 # ID, Indonesia
 36.83.23.5 # ID, Indonesia
 36.84.100.162 # ID, Indonesia
 36.84.139.46 # ID, Indonesia
+36.85.152.101 # ID, Indonesia
 36.85.223.162 # ID, Indonesia
 36.89.157.197 # ID, Indonesia
 36.89.163.178 # ID, Indonesia
+36.89.213.100 # ID, Indonesia
 36.89.251.105 # ID, Indonesia
 36.90.167.118 # ID, Indonesia
 36.90.185.198 # ID, Indonesia
@@ -15853,6 +15947,7 @@
 36.90.47.122 # ID, Indonesia
 36.90.50.71 # ID, Indonesia
 36.90.58.42 # ID, Indonesia
+36.91.152.234 # ID, Indonesia
 36.91.27.210 # ID, Indonesia
 36.91.38.31 # ID, Indonesia
 36.91.40.132 # ID, Indonesia
@@ -16336,6 +16431,7 @@
 43.226.158.220 # CN, China
 43.226.158.63 # CN, China
 43.226.236.222 # CN, China
+43.226.238.12 # CN, China
 43.226.239.205 # CN, China
 43.226.33.5 # CN, China
 43.226.34.148 # CN, China
@@ -16586,6 +16682,7 @@
 45.40.201.73 # CN, China
 45.40.253.179 # CN, China
 45.43.18.202 # US, United States
+45.43.21.18 # US, United States
 45.43.36.191 # TW, Taiwan
 45.43.36.219 # TW, Taiwan
 45.43.36.235 # TW, Taiwan
@@ -16639,6 +16736,7 @@
 45.56.97.34 # US, United States
 45.59.119.127 # US, United States
 45.6.100.234 # BR, Brazil
+45.6.18.65 # BR, Brazil
 45.6.72.17 # BR, Brazil
 45.62.250.104 # CA, Canada
 45.62.254.138 # CA, Canada
@@ -16685,6 +16783,7 @@
 45.83.66.210 # DE, Germany
 45.83.66.27 # DE, Germany
 45.83.66.91 # DE, Germany
+45.83.67.140 # DE, Germany
 45.83.67.213 # DE, Germany
 45.83.67.29 # DE, Germany
 45.83.67.38 # DE, Germany
@@ -16726,6 +16825,7 @@
 46.101.2.179 # GB, United Kingdom
 46.101.200.68 # DE, Germany
 46.101.204.20 # DE, Germany
+46.101.204.40 # DE, Germany
 46.101.206.205 # DE, Germany
 46.101.209.178 # DE, Germany
 46.101.216.16 # DE, Germany
@@ -16836,6 +16936,7 @@
 46.36.27.114 # RU, Russian Federation
 46.36.27.120 # RU, Russian Federation
 46.38.160.82 # GB, United Kingdom
+46.38.237.178 # DE, Germany
 46.38.237.198 # DE, Germany
 46.38.255.121 # DE, Germany
 46.39.20.4 # RU, Russian Federation
@@ -16868,6 +16969,7 @@
 47.103.107.233 # CN, China
 47.103.192.47 # CN, China
 47.104.128.186 # CN, China
+47.104.155.156 # CN, China
 47.104.207.69 # CN, China
 47.104.252.203 # CN, China
 47.104.5.91 # CN, China
@@ -16949,6 +17051,7 @@
 47.254.233.48 # MY, Malaysia
 47.254.235.124 # MY, Malaysia
 47.254.238.126 # MY, Malaysia
+47.254.238.50 # MY, Malaysia
 47.254.239.30 # MY, Malaysia
 47.254.28.96 # US, United States
 47.254.68.189 # US, United States
@@ -17311,6 +17414,7 @@
 49.234.121.213 # CN, China
 49.234.122.94 # CN, China
 49.234.124.225 # CN, China
+49.234.126.177 # CN, China
 49.234.13.235 # CN, China
 49.234.131.75 # CN, China
 49.234.145.177 # CN, China
@@ -17436,6 +17540,7 @@
 49.235.143.244 # CN, China
 49.235.144.143 # CN, China
 49.235.146.95 # CN, China
+49.235.148.116 # CN, China
 49.235.149.108 # CN, China
 49.235.15.230 # CN, China
 49.235.151.50 # CN, China
@@ -17807,6 +17912,7 @@
 51.144.171.125 # NL, Netherlands
 51.144.227.77 # NL, Netherlands
 51.144.82.235 # NL, Netherlands
+51.145.0.150 # GB, United Kingdom
 51.145.141.8 # NL, Netherlands
 51.145.242.1 # NL, Netherlands
 51.15.10.251 # NL, Netherlands
@@ -17876,6 +17982,7 @@
 51.158.190.54 # FR, France
 51.158.20.200 # FR, France
 51.158.65.150 # FR, France
+51.158.70.82 # FR, France
 51.158.96.229 # FR, France
 51.158.98.224 # FR, France
 51.159.35.142 # FR, France
@@ -18776,6 +18883,7 @@
 54.38.65.215 # FR, France
 54.38.65.44 # FR, France
 54.38.65.55 # FR, France
+54.38.71.22 # FR, France
 54.39.133.91 # CA, Canada
 54.39.138.246 # CA, Canada
 54.39.138.249 # CA, Canada
@@ -18853,6 +18961,7 @@
 58.221.204.114 # CN, China
 58.221.84.90 # CN, China
 58.222.107.253 # CN, China
+58.222.133.82 # CN, China
 58.222.49.34 # CN, China
 58.229.114.170 # KR, Korea, Republic of
 58.23.16.254 # CN, China
@@ -18881,6 +18990,7 @@
 58.251.37.197 # CN, China
 58.252.8.115 # CN, China
 58.26.161.34 # MY, Malaysia
+58.26.237.222 # MY, Malaysia
 58.27.31.70 # MY, Malaysia
 58.27.90.166 # MY, Malaysia
 58.27.99.112 # MY, Malaysia
@@ -18964,6 +19074,7 @@
 59.125.160.248 # TW, Taiwan
 59.125.179.218 # TW, Taiwan
 59.125.182.209 # TW, Taiwan
+59.126.108.47 # TW, Taiwan
 59.127.1.12 # TW, Taiwan
 59.127.152.203 # TW, Taiwan
 59.127.195.93 # TW, Taiwan
@@ -19179,6 +19290,8 @@
 61.132.225.82 # CN, China
 61.132.226.140 # CN, China
 61.132.52.19 # CN, China
+61.132.52.29 # CN, China
+61.132.52.45 # CN, China
 61.133.122.19 # CN, China
 61.133.232.248 # CN, China
 61.133.232.249 # CN, China
@@ -19421,6 +19534,7 @@
 62.234.74.168 # CN, China
 62.234.75.76 # CN, China
 62.234.78.233 # CN, China
+62.234.80.115 # CN, China
 62.234.81.63 # CN, China
 62.234.82.70 # CN, China
 62.234.83.138 # CN, China
@@ -19784,6 +19898,7 @@
 68.52.212.208 # US, United States
 68.53.218.224 # US, United States
 68.56.208.152 # US, United States
+68.56.8.170 # US, United States
 68.69.167.149 # US, United States
 68.71.131.5 # US, United States
 68.74.118.152 # US, United States
@@ -19922,6 +20037,7 @@
 73.55.30.178 # US, United States
 73.75.52.127 # US, United States
 73.85.205.81 # US, United States
+73.88.205.208 # US, United States
 73.89.52.125 # US, United States
 73.93.102.54 # US, United States
 73.93.179.188 # US, United States
@@ -20073,6 +20189,7 @@
 77.94.124.138 # RU, Russian Federation
 77.95.0.53 # TJ, Tajikistan
 77.95.194.158 # CZ, Czech Republic
+77.97.242.73 # GB, United Kingdom
 78.0.47.170 # HR, Croatia
 78.102.154.4 # CZ, Czech Republic
 78.107.249.37 # RU, Russian Federation
@@ -20194,6 +20311,7 @@
 80.150.162.146 # DE, Germany
 80.151.130.207 # DE, Germany
 80.169.112.191 # GB, United Kingdom
+80.181.190.174 # IT, Italy
 80.20.133.206 # IT, Italy
 80.21.147.85 # IT, Italy
 80.210.18.193 # IR, Iran, Islamic Republic of
@@ -20352,6 +20470,7 @@
 81.49.199.58 # FR, France
 81.51.156.171 # FR, France
 81.66.89.42 # FR, France
+81.68.100.138 # CN, China
 81.68.102.6 # CN, China
 81.68.106.155 # CN, China
 81.68.118.74 # CN, China
@@ -20410,6 +20529,7 @@
 82.165.77.241 # DE, Germany
 82.196.15.195 # NL, Netherlands
 82.196.6.158 # NL, Netherlands
+82.196.9.161 # NL, Netherlands
 82.200.226.226 # KZ, Kazakhstan
 82.200.65.218 # RU, Russian Federation
 82.208.133.133 # RO, Romania
@@ -20420,6 +20540,7 @@
 82.212.70.114 # JO, Jordan
 82.213.13.46 # PS, Palestinian Territory
 82.214.143.120 # PL, Poland
+82.22.112.50 # GB, United Kingdom
 82.221.100.91 # IS, Iceland
 82.221.105.6 # IS, Iceland
 82.221.105.7 # IS, Iceland
@@ -20676,6 +20797,7 @@
 86.210.71.37 # FR, France
 86.213.179.153 # FR, France
 86.213.41.170 # FR, France
+86.22.166.140 # GB, United Kingdom
 86.24.213.36 # GB, United Kingdom
 86.247.95.214 # FR, France
 86.252.17.161 # FR, France
@@ -20761,6 +20883,7 @@
 88.132.66.26 # HU, Hungary
 88.135.36.205 # IR, Iran, Islamic Republic of
 88.149.248.9 # IT, Italy
+88.152.231.197 # DE, Germany
 88.156.122.72 # PL, Poland
 88.157.229.58 # PT, Portugal
 88.157.229.59 # PT, Portugal
@@ -21050,6 +21173,7 @@
 91.40.57.77 # DE, Germany
 91.40.70.35 # DE, Germany
 91.42.215.155 # DE, Germany
+91.64.161.102 # DE, Germany
 91.64.178.129 # DE, Germany
 91.69.243.75 # FR, France
 91.7.101.189 # DE, Germany
@@ -21170,6 +21294,7 @@
 93.171.5.244 # UA, Ukraine
 93.174.89.53 # NL, Netherlands
 93.174.93.143 # NL, Netherlands
+93.174.93.214 # NL, Netherlands
 93.174.95.106 # NL, Netherlands
 93.179.118.218 # US, United States
 93.179.69.11 # RU, Russian Federation
@@ -21359,6 +21484,7 @@
 94.45.57.78 # UA, Ukraine
 94.50.163.5 # RU, Russian Federation
 94.60.57.246 # PT, Portugal
+94.61.210.184 # PT, Portugal
 94.69.226.48 # GR, Greece
 94.70.246.6 # GR, Greece
 94.73.238.150 # RU, Russian Federation
@@ -21453,6 +21579,7 @@
 95.85.60.251 # NL, Netherlands
 95.85.85.43 # RU, Russian Federation
 95.85.9.94 # NL, Netherlands
+95.87.241.183 # BG, Bulgaria
 95.88.128.23 # DE, Germany
 95.88.133.52 # DE, Germany
 95.90.157.145 # DE, Germany

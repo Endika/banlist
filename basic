@@ -14,6 +14,7 @@
 103.4.217.139 # TH, Thailand
 103.75.101.59 # ID, Indonesia
 103.75.149.106 # NP, Nepal
+103.79.90.72 # ID, Indonesia
 103.95.221.2 # CN, China
 104.236.124.45 # US, United States
 104.248.116.140 # US, United States
@@ -71,9 +72,13 @@
 119.84.8.43 # CN, China
 120.202.21.189 # CN, China
 120.28.109.188 # PH, Philippines
+120.70.98.195 # CN, China
 120.88.46.226 # IN, India
+120.92.119.90 # CN, China
+121.15.2.178 # CN, China
 121.162.235.44 # KR, Korea, Republic of
 121.171.166.170 # KR, Korea, Republic of
+121.46.26.126 # CN, China
 122.155.174.36 # TH, Thailand
 122.166.227.27 # IN, India
 122.166.237.117 # IN, India
@@ -152,9 +157,11 @@
 140.143.200.251 # CN, China
 140.143.30.191 # CN, China
 140.143.90.154 # CN, China
+140.86.12.31 # NL, Netherlands
 141.212.123.190 # US, United States
 141.212.123.194 # US, United States
 142.4.214.151 # CA, Canada
+142.44.185.242 # CA, Canada
 142.93.101.148 # DE, Germany
 142.93.122.58 # US, United States
 142.93.235.47 # NL, Netherlands
@@ -192,6 +199,7 @@
 159.65.154.48 # IN, India
 159.65.176.156 # US, United States
 159.65.245.203 # US, United States
+159.65.30.66 # GB, United Kingdom
 159.89.114.40 # CA, Canada
 159.89.115.126 # CA, Canada
 159.89.170.154 # IN, India
@@ -224,9 +232,11 @@
 170.210.203.215 # AR, Argentina
 170.210.214.50 # AR, Argentina
 171.244.140.174 # VN, Vietnam
+172.81.226.22 # CN, China
 175.138.108.78 # MY, Malaysia
 175.6.32.134 # CN, China
 175.6.35.93 # CN, China
+176.31.255.63 # FR, France
 176.31.31.185 # FR, France
 177.135.93.227 # BR, Brazil
 177.139.194.62 # BR, Brazil
@@ -263,12 +273,14 @@
 183.82.121.34 # IN, India
 185.162.235.64 # NL, Netherlands
 185.38.3.138 # FI, Finland
+185.74.4.189 # UZ, Uzbekistan
 185.94.111.1 # RU, Russian Federation
 186.109.88.187 # AR, Argentina
 186.121.204.10 # BO, Bolivia
 186.170.28.46 # CO, Colombia
 186.85.159.135 # CO, Colombia
 187.12.181.106 # BR, Brazil
+187.123.56.57 # BR, Brazil
 187.141.128.42 # MX, Mexico
 187.188.90.141 # MX, Mexico
 187.217.199.20 # MX, Mexico
@@ -314,11 +326,13 @@
 200.105.183.118 # BO, Bolivia
 200.52.80.34 # MX, Mexico
 200.87.233.68 # BO, Bolivia
+201.116.194.210 # MX, Mexico
 201.122.102.21 # MX, Mexico
 201.157.194.106 # BR, Brazil
 201.163.180.183 # MX, Mexico
 201.235.19.122 # AR, Argentina
 201.32.178.190 # BR, Brazil
+202.131.152.2 # IN, India
 202.77.105.100 # ID, Indonesia
 203.230.6.175 # KR, Korea, Republic of
 205.185.113.140 # US, United States
@@ -376,6 +390,7 @@
 222.209.85.197 # CN, China
 222.255.115.237 # VN, Vietnam
 223.171.46.146 # KR, Korea, Republic of
+23.97.180.45 # NL, Netherlands
 27.154.242.142 # CN, China
 27.155.83.174 # CN, China
 27.34.251.60 # IN, India
@@ -391,6 +406,7 @@
 39.105.200.55 # CN, China
 39.96.82.174 # CN, China
 41.221.168.167 # NG, Nigeria
+41.223.4.155 # TZ, Tanzania, United Republic of
 41.249.250.209 # MA, Morocco
 41.39.134.88 # EG, Egypt
 41.82.208.182 # SN, Senegal
@@ -408,6 +424,7 @@
 46.182.19.49 # DE, Germany
 46.218.85.122 # FR, France
 46.35.19.18 # FR, France
+47.17.177.110 # US, United States
 47.75.175.59 # CN, China
 47.92.98.123 # CN, China
 47.96.144.102 # CN, China
@@ -446,6 +463,7 @@
 51.77.150.118 # FR, France
 51.77.150.203 # FR, France
 51.77.200.101 # FR, France
+51.77.200.139 # FR, France
 51.77.215.227 # FR, France
 51.79.55.141 # CA, Canada
 51.83.41.120 # FR, France
@@ -458,6 +476,7 @@
 54.37.159.12 # FR, France
 54.37.224.163 # FR, France
 54.38.183.181 # FR, France
+54.38.190.48 # FR, France
 54.38.33.178 # FR, France
 58.210.82.250 # CN, China
 58.222.107.253 # CN, China
@@ -465,6 +484,7 @@
 58.87.67.226 # CN, China
 58.87.78.55 # CN, China
 60.12.26.9 # CN, China
+60.220.185.61 # CN, China
 60.250.164.169 # TW, Taiwan
 61.157.91.159 # CN, China
 61.164.246.45 # CN, China
@@ -491,6 +511,7 @@
 80.66.146.84 # RU, Russian Federation
 80.82.77.139 # NL, Netherlands
 80.82.77.33 # NL, Netherlands
+80.98.249.181 # HU, Hungary
 81.130.234.235 # GB, United Kingdom
 82.196.15.195 # NL, Netherlands
 82.200.226.226 # KZ, Kazakhstan
@@ -504,7 +525,9 @@
 89.133.103.216 # HU, Hungary
 89.163.209.26 # DE, Germany
 89.216.47.154 # RS, Serbia
+91.121.104.181 # FR, France
 91.121.205.83 # FR, France
+91.121.211.34 # FR, France
 91.121.30.96 # FR, France
 91.134.240.130 # FR, France
 91.134.242.199 # FR, France

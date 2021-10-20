@@ -470,6 +470,7 @@
 100.7.12.4 # US, United States
 101.100.131.107 # NZ, New Zealand
 101.108.131.80 # TH, Thailand
+101.108.39.112 # TH, Thailand
 101.109.177.14 # TH, Thailand
 101.109.245.158 # TH, Thailand
 101.118.3.137 # AU, Australia
@@ -3563,6 +3564,7 @@
 108.200.15.111 # US, United States
 108.200.95.188 # US, United States
 108.201.51.30 # US, United States
+108.203.231.30 # US, United States
 108.210.72.168 # US, United States
 108.213.58.134 # US, United States
 108.214.120.220 # US, United States
@@ -8429,6 +8431,7 @@
 124.43.4.87 # LK, Sri Lanka
 124.43.9.184 # LK, Sri Lanka
 124.61.214.44 # KR, Korea, Republic of
+124.64.22.196 # CN, China
 124.65.186.186 # CN, China
 124.65.187.130 # CN, China
 124.65.71.226 # CN, China
@@ -10687,6 +10690,7 @@
 14.225.8.27 # VN, Vietnam
 14.23.110.172 # CN, China
 14.23.154.114 # CN, China
+14.23.161.109 # CN, China
 14.23.170.234 # CN, China
 14.23.44.10 # CN, China
 14.23.53.202 # CN, China
@@ -11122,6 +11126,7 @@
 142.93.143.112 # NL, Netherlands
 142.93.143.175 # NL, Netherlands
 142.93.145.85 # CA, Canada
+142.93.15.179 # US, United States
 142.93.151.152 # CA, Canada
 142.93.154.239 # CA, Canada
 142.93.159.47 # CA, Canada
@@ -13647,6 +13652,7 @@
 161.35.121.130 # US, United States
 161.35.126.146 # US, United States
 161.35.127.147 # US, United States
+161.35.129.127 # US, United States
 161.35.129.216 # US, United States
 161.35.13.78 # US, United States
 161.35.130.172 # US, United States
@@ -14686,6 +14692,7 @@
 167.86.75.33 # DE, Germany
 167.86.95.160 # DE, Germany
 167.88.161.183 # US, United States
+167.88.161.219 # US, United States
 167.94.138.20 # US, United States
 167.94.138.41 # US, United States
 167.94.138.58 # US, United States
@@ -15975,6 +15982,7 @@
 176.78.65.246 # PT, Portugal
 176.78.72.11 # PT, Portugal
 176.79.86.83 # PT, Portugal
+176.82.245.56 # ES, Spain
 176.83.15.91 # ES, Spain
 176.9.217.209 # DE, Germany
 176.9.220.77 # DE, Germany
@@ -16069,6 +16077,7 @@
 177.191.178.34 # BR, Brazil
 177.191.188.43 # BR, Brazil
 177.191.191.143 # BR, Brazil
+177.194.53.100 # BR, Brazil
 177.197.67.15 # BR, Brazil
 177.200.207.11 # BR, Brazil
 177.200.212.34 # BR, Brazil
@@ -16271,6 +16280,7 @@
 178.128.183.90 # US, United States
 178.128.184.213 # US, United States
 178.128.19.209 # SG, Singapore
+178.128.194.144 # DE, Germany
 178.128.197.132 # DE, Germany
 178.128.199.106 # DE, Germany
 178.128.2.151 # US, United States
@@ -19408,6 +19418,7 @@
 189.35.125.109 # BR, Brazil
 189.37.72.12 # BR, Brazil
 189.37.80.201 # BR, Brazil
+189.38.171.247 # BR, Brazil
 189.38.97.242 # BR, Brazil
 189.39.124.90 # BR, Brazil
 189.39.29.119 # BR, Brazil
@@ -20281,6 +20292,7 @@
 193.118.55.146 # DE, Germany
 193.118.55.162 # DE, Germany
 193.118.55.170 # DE, Germany
+193.118.55.171 # DE, Germany
 193.119.110.220 # AU, Australia
 193.122.104.122 # US, United States
 193.122.106.37 # US, United States
@@ -22206,6 +22218,7 @@
 203.195.207.85 # CN, China
 203.195.211.173 # CN, China
 203.195.214.173 # CN, China
+203.195.220.117 # CN, China
 203.195.224.229 # CN, China
 203.199.243.12 # IN, India
 203.2.112.100 # CN, China
@@ -24261,6 +24274,7 @@
 223.27.255.174 # TH, Thailand
 223.29.204.245 # IN, India
 223.29.204.246 # IN, India
+223.31.139.60 # IN, India
 223.31.176.214 # IN, India
 223.31.191.50 # IN, India
 223.4.66.84 # CN, China
@@ -25924,11 +25938,13 @@
 37.6.0.209 # GR, Greece
 37.6.2.37 # GR, Greece
 37.6.77.148 # GR, Greece
+37.61.176.231 # RU, Russian Federation
 37.77.105.28 # RU, Russian Federation
 37.77.106.69 # RU, Russian Federation
 37.77.111.89 # RU, Russian Federation
 37.77.48.7 # IQ, Iraq
 37.8.214.76 # PL, Poland
+37.81.150.5 # DE, Germany
 37.84.112.157 # DE, Germany
 37.84.141.191 # DE, Germany
 37.9.196.75 # CZ, Czech Republic
@@ -28427,6 +28443,7 @@
 47.98.57.152 # CN, China
 47.98.62.173 # CN, China
 47.99.118.231 # CN, China
+47.99.124.146 # CN, China
 47.99.129.135 # CN, China
 47.99.137.186 # CN, China
 47.99.172.164 # CN, China
@@ -28488,6 +28505,7 @@
 49.232.111.165 # CN, China
 49.232.112.204 # CN, China
 49.232.112.209 # CN, China
+49.232.118.105 # CN, China
 49.232.119.202 # CN, China
 49.232.119.253 # CN, China
 49.232.12.118 # CN, China
@@ -31526,6 +31544,7 @@
 65.29.170.16 # US, United States
 65.29.209.232 # US, United States
 65.29.229.123 # US, United States
+65.29.94.221 # US, United States
 65.30.1.190 # US, United States
 65.30.16.182 # US, United States
 65.30.202.220 # US, United States
@@ -33470,6 +33489,7 @@
 76.180.43.63 # US, United States
 76.181.44.38 # US, United States
 76.182.108.246 # US, United States
+76.182.153.160 # US, United States
 76.183.193.85 # US, United States
 76.185.166.127 # US, United States
 76.186.116.95 # US, United States
@@ -33507,6 +33527,7 @@
 76.23.189.109 # US, United States
 76.23.2.211 # US, United States
 76.234.152.176 # US, United States
+76.234.77.2 # US, United States
 76.235.255.179 # US, United States
 76.24.103.54 # US, United States
 76.24.106.142 # US, United States
@@ -34777,6 +34798,7 @@
 81.70.208.61 # CN, China
 81.70.209.189 # CN, China
 81.70.21.113 # CN, China
+81.70.21.147 # CN, China
 81.70.210.160 # CN, China
 81.70.210.219 # CN, China
 81.70.210.74 # CN, China

@@ -60,6 +60,7 @@
 103.101.225.67 # ID, Indonesia
 103.102.152.11 # ID, Indonesia
 103.103.30.125 # ID, Indonesia
+103.104.17.105 # PH, Philippines
 103.106.104.19 # IP Address not found
 103.106.104.9 # IP Address not found
 103.108.182.122 # HK, Hong Kong
@@ -325,6 +326,7 @@
 104.131.8.206 # US, United States
 104.131.91.148 # US, United States
 104.152.52.108 # US, United States
+104.152.52.115 # US, United States
 104.152.52.119 # US, United States
 104.152.52.128 # US, United States
 104.152.52.135 # US, United States
@@ -381,6 +383,7 @@
 104.248.153.95 # SG, Singapore
 104.248.156.11 # SG, Singapore
 104.248.158.162 # SG, Singapore
+104.248.160.246 # GB, United Kingdom
 104.248.161.162 # GB, United Kingdom
 104.248.172.34 # GB, United Kingdom
 104.248.176.159 # US, United States
@@ -432,6 +435,7 @@
 106.75.14.86 # CN, China
 106.75.18.40 # CN, China
 106.75.22.203 # CN, China
+106.75.31.6 # CN, China
 106.75.67.217 # CN, China
 106.75.70.50 # CN, China
 106.75.71.64 # CN, China
@@ -1601,6 +1605,7 @@
 143.244.190.90 # US, United States
 143.244.40.201 # US, United States
 143.244.41.219 # US, United States
+143.244.50.173 # US, United States
 143.255.141.251 # PY, Paraguay
 143.42.120.80 # US, United States
 143.42.142.15 # US, United States
@@ -1677,6 +1682,7 @@
 146.88.241.33 # US, United States
 146.88.241.36 # US, United States
 146.88.241.49 # US, United States
+146.88.241.87 # US, United States
 147.135.219.202 # FR, France
 147.139.116.18 # IN, India
 147.139.139.64 # ID, Indonesia
@@ -2774,6 +2780,7 @@
 178.62.63.15 # GB, United Kingdom
 178.62.64.242 # GB, United Kingdom
 178.62.71.193 # GB, United Kingdom
+178.62.72.205 # GB, United Kingdom
 178.62.78.139 # GB, United Kingdom
 178.62.8.163 # GB, United Kingdom
 178.62.81.147 # GB, United Kingdom
@@ -3029,7 +3036,9 @@
 185.221.239.108 # GB, United Kingdom
 185.221.239.121 # GB, United Kingdom
 185.223.93.218 # US, United States
+185.224.128.142 # NL, Netherlands
 185.224.129.141 # NL, Netherlands
+185.225.75.86 # DE, Germany
 185.227.152.189 # DE, Germany
 185.227.154.97 # DE, Germany
 185.231.59.165 # IP Address not found
@@ -3041,6 +3050,8 @@
 185.233.19.15 # FI, Finland
 185.233.19.154 # FI, Finland
 185.233.19.16 # FI, Finland
+185.233.19.166 # FI, Finland
+185.233.19.180 # FI, Finland
 185.233.19.202 # FI, Finland
 185.233.19.210 # FI, Finland
 185.233.19.242 # FI, Finland
@@ -3644,6 +3655,7 @@
 198.235.24.86 # CA, Canada
 198.235.24.9 # CA, Canada
 198.235.24.94 # CA, Canada
+198.235.24.95 # CA, Canada
 198.244.151.8 # US, United States
 198.244.188.245 # US, United States
 198.245.55.117 # CA, Canada
@@ -3654,6 +3666,7 @@
 198.50.173.145 # CA, Canada
 198.74.56.46 # US, United States
 198.98.48.192 # US, United States
+198.98.51.160 # US, United States
 198.98.55.67 # US, United States
 198.98.57.127 # US, United States
 198.98.59.176 # US, United States
@@ -3671,6 +3684,7 @@
 2.56.180.92 # RU, Russian Federation
 2.57.122.150 # RO, Romania
 2.58.113.130 # DE, Germany
+2.58.113.70 # DE, Germany
 2.59.119.116 # TR, Turkey
 2.59.255.51 # US, United States
 2.82.165.41 # PT, Portugal
@@ -3903,6 +3917,7 @@
 205.210.31.198 # CA, Canada
 205.210.31.199 # CA, Canada
 205.210.31.2 # CA, Canada
+205.210.31.20 # CA, Canada
 205.210.31.202 # CA, Canada
 205.210.31.21 # CA, Canada
 205.210.31.223 # CA, Canada
@@ -5375,6 +5390,7 @@
 45.92.192.194 # US, United States
 45.95.146.114 # NL, Netherlands
 45.95.146.36 # NL, Netherlands
+45.95.146.99 # NL, Netherlands
 45.95.147.218 # NL, Netherlands
 45.95.169.184 # HR, Croatia
 46.101.110.253 # DE, Germany
@@ -5491,6 +5507,7 @@
 47.243.127.141 # US, United States
 47.243.163.124 # US, United States
 47.243.176.7 # US, United States
+47.243.206.200 # US, United States
 47.243.240.208 # US, United States
 47.243.58.157 # US, United States
 47.243.60.236 # US, United States
@@ -5963,11 +5980,14 @@
 65.20.164.65 # US, United States
 65.20.205.207 # US, United States
 65.20.224.198 # US, United States
+65.49.1.115 # US, United States
+65.49.1.121 # US, United States
 65.49.1.35 # US, United States
 65.49.1.41 # US, United States
 65.49.1.43 # US, United States
 65.49.1.49 # US, United States
 65.49.1.85 # US, United States
+65.49.20.104 # US, United States
 65.49.20.105 # US, United States
 65.49.20.109 # US, United States
 65.49.20.110 # US, United States

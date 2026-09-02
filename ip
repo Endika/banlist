@@ -469,6 +469,7 @@
 101.96.220.237 # CN, China
 101.96.220.35 # CN, China
 101.96.221.200 # CN, China
+101.99.32.140 # VN, Vietnam
 102.113.246.128 # MU, Mauritius
 102.132.17.142 # CM, Cameroon
 102.132.245.209 # ZA, South Africa
@@ -2068,6 +2069,7 @@
 104.247.164.72 # TR, Türkiye
 104.248.148.117 # SG, Singapore
 104.248.150.45 # SG, Singapore
+104.248.160.169 # GB, United Kingdom
 104.248.164.99 # GB, United Kingdom
 104.248.171.19 # GB, United Kingdom
 104.248.17.208 # DE, Germany
@@ -2268,6 +2270,7 @@
 107.150.103.12 # US, United States
 107.150.103.210 # US, United States
 107.150.104.184 # US, United States
+107.150.105.10 # US, United States
 107.150.105.153 # US, United States
 107.150.106.178 # US, United States
 107.150.110.167 # US, United States
@@ -2396,6 +2399,7 @@
 107.189.17.115 # NL, The Netherlands
 107.189.23.48 # NL, The Netherlands
 107.189.27.179 # NL, The Netherlands
+107.189.28.96 # LU, Luxembourg
 107.189.31.222 # LU, Luxembourg
 107.191.101.41 # US, United States
 107.197.183.81 # US, United States
@@ -3252,6 +3256,8 @@
 117.50.165.23 # CN, China
 117.50.174.24 # CN, China
 117.50.176.179 # CN, China
+117.50.178.180 # CN, China
+117.50.179.192 # CN, China
 117.50.182.35 # CN, China
 117.50.184.148 # CN, China
 117.50.184.161 # CN, China
@@ -4270,6 +4276,7 @@
 124.248.66.115 # CN, China
 124.29.237.27 # PK, Pakistan
 124.40.250.113 # ID, Indonesia
+124.40.252.3 # ID, Indonesia
 1.244.220.30 # KR, South Korea
 124.43.4.17 # LK, Sri Lanka
 124.43.6.160 # LK, Sri Lanka
@@ -4286,11 +4293,13 @@
 124.7.227.98 # IN, India
 124.89.83.31 # CN, China
 125.114.71.205 # CN, China
+125.122.102.148 # CN, China
 125.122.156.134 # CN, China
 125.122.29.71 # CN, China
 125.122.31.54 # CN, China
 125.122.33.250 # CN, China
 125.122.36.17 # CN, China
+125.122.37.247 # CN, China
 125.122.96.17 # CN, China
 125.124.114.150 # CN, China
 125.124.149.14 # CN, China
@@ -4886,6 +4895,7 @@
 138.68.23.9 # US, United States
 138.68.243.18 # US, United States
 138.68.41.46 # US, United States
+138.68.63.15 # US, United States
 138.68.81.80 # DE, Germany
 138.68.85.29 # DE, Germany
 138.68.91.221 # DE, Germany
@@ -4952,6 +4962,7 @@
 139.59.188.13 # GB, United Kingdom
 139.59.20.109 # IN, India
 139.59.20.127 # IN, India
+139.59.208.225 # DE, Germany
 139.59.208.49 # DE, Germany
 139.59.21.115 # IN, India
 139.59.21.124 # IN, India
@@ -5715,6 +5726,7 @@
 144.126.219.163 # US, United States
 144.126.225.192 # GB, United Kingdom
 144.126.230.158 # GB, United Kingdom
+144.126.237.209 # GB, United Kingdom
 144.172.100.188 # US, United States
 144.172.111.216 # US, United States
 144.172.83.208 # US, United States
@@ -7157,6 +7169,7 @@
 161.35.16.72 # DE, Germany
 161.35.169.21 # GB, United Kingdom
 161.35.17.41 # DE, Germany
+161.35.179.218 # US, United States
 161.35.184.65 # US, United States
 161.35.189.73 # US, United States
 161.35.205.74 # DE, Germany
@@ -7428,6 +7441,7 @@
 165.154.231.236 # JP, Japan
 165.154.231.46 # JP, Japan
 165.154.231.80 # JP, Japan
+165.154.23.187 # HK, Hong Kong
 165.154.23.29 # HK, Hong Kong
 165.154.233.209 # PH, Philippines
 165.154.233.77 # PH, Philippines
@@ -7544,6 +7558,7 @@
 165.232.190.73 # IN, India
 165.232.190.97 # IN, India
 165.232.191.205 # IN, India
+165.232.34.201 # GB, United Kingdom
 165.232.34.42 # GB, United Kingdom
 165.232.35.106 # GB, United Kingdom
 165.232.38.41 # GB, United Kingdom
@@ -8737,6 +8752,7 @@
 181.89.140.125 # AR, Argentina
 18.190.53.57 # US, United States
 181.93.233.66 # AR, Argentina
+181.94.210.127 # PY, Paraguay
 181.94.225.221 # PY, Paraguay
 18.195.233.228 # DE, Germany
 181.97.224.21 # AR, Argentina
@@ -8897,6 +8913,7 @@
 182.92.211.68 # CN, China
 182.92.213.134 # CN, China
 182.92.213.229 # CN, China
+182.92.215.108 # CN, China
 182.92.215.151 # CN, China
 182.92.215.83 # CN, China
 182.92.217.127 # CN, China
@@ -9520,6 +9537,7 @@
 187.174.238.116 # MX, Mexico
 187.188.0.71 # MX, Mexico
 187.191.2.213 # MX, Mexico
+187.192.86.212 # MX, Mexico
 187.204.239.129 # MX, Mexico
 187.210.77.100 # MX, Mexico
 187.212.0.221 # MX, Mexico
@@ -10371,6 +10389,7 @@
 195.250.72.168 # AM, Armenia
 195.25.15.19 # FR, France
 195.26.240.95 # US, United States
+195.26.242.17 # US, United States
 195.26.249.12 # US, United States
 195.2.92.202 # NL, The Netherlands
 195.34.83.109 # DE, Germany
@@ -10629,6 +10648,7 @@
 199.195.254.215 # US, United States
 199.21.150.105 # CA, Canada
 199.231.163.19 # US, United States
+199.241.120.131 # BR, Brazil
 199.245.100.142 # US, United States
 199.245.100.250 # US, United States
 199.68.196.115 # US, United States
@@ -11225,6 +11245,7 @@
 206.245.233.186 # GB, United Kingdom
 206.42.14.196 # BR, Brazil
 206.42.34.104 # BR, Brazil
+206.42.5.12 # BR, Brazil
 206.42.52.168 # BR, Brazil
 206.42.56.228 # BR, Brazil
 206.81.27.245 # DE, Germany
@@ -12657,6 +12678,7 @@
 36.138.227.125 # CN, China
 36.138.53.52 # CN, China
 36.139.10.169 # CN, China
+36.139.161.140 # CN, China
 36.139.226.237 # CN, China
 36.139.229.71 # CN, China
 36.139.251.213 # CN, China
@@ -12838,6 +12860,7 @@
 37.202.232.47 # IR, Iran
 37.204.136.167 # RU, Russia
 37.204.226.204 # RU, Russia
+37.204.6.19 # RU, Russia
 37.208.155.66 # QA, Qatar
 37.2.108.253 # SE, Sweden
 37.220.86.110 # RU, Russia
@@ -15356,6 +15379,7 @@
 47.237.163.26 # SG, Singapore
 47.237.18.169 # SG, Singapore
 47.237.18.23 # SG, Singapore
+47.237.183.136 # SG, Singapore
 47.237.188.252 # SG, Singapore
 47.237.189.243 # SG, Singapore
 47.237.191.34 # SG, Singapore
@@ -15367,6 +15391,7 @@
 47.237.23.192 # SG, Singapore
 47.237.23.219 # SG, Singapore
 47.237.23.64 # SG, Singapore
+47.237.2.50 # SG, Singapore
 47.237.25.153 # SG, Singapore
 47.237.28.135 # SG, Singapore
 47.237.29.126 # SG, Singapore
@@ -16190,6 +16215,7 @@
 49.162.227.188 # KR, South Korea
 49.200.178.146 # IN, India
 49.200.179.2 # IN, India
+49.200.27.35 # IN, India
 49.204.74.149 # IN, India
 49.205.149.127 # IN, India
 49.205.183.78 # IN, India
@@ -17239,6 +17265,7 @@
 66.116.205.235 # AE, United Arab Emirates
 66.116.224.33 # AE, United Arab Emirates
 66.116.225.113 # AE, United Arab Emirates
+66.116.225.6 # AE, United Arab Emirates
 66.116.226.147 # AE, United Arab Emirates
 66.116.237.163 # AE, United Arab Emirates
 66.116.245.235 # AE, United Arab Emirates
